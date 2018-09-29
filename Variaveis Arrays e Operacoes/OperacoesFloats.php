@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
+=======
+>>>>>>> 9806e047d884ff464de1485592adf6c4b8b8d71d
 <html>
   <head>
     <title>Operações: Números ponto Flutuantes</title>
