@@ -11,8 +11,8 @@
       $multiplicacao = $i * 5;
       $divisao = $i / 5;
       $resto = $i % 3;
-      printf("<p> Soma = %d, Subtração = %d, Divisão = %d, Multiplicação = %d, Resto = %d </p>",
-            $soma, $subtracao, $multiplicacao, $divisao, $resto);
+      printf("<p>I = %d, Soma = %d, Subtração = %d, Multiplicação = %d, Divisão = %d, Resto = %d </p>",
+            $i, $soma, $subtracao, $multiplicacao, $divisao, $resto);
 
       #Incrementação
       $i = 1;
@@ -35,7 +35,7 @@
       $i = $i / 2;
       #Também é igual
       $i += 2;
-      $i -= 2; 
+      $i -= 2;
       $i *= 2;
       $i /= 2;
 
