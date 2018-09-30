@@ -18,6 +18,6 @@
   "homepage": "https://github.com/juanFCA/PHP7-Fundamentos#readme",
   "dependencies": {
     "hammerjs": "^2.0.8",
-    "jquery": "^1.9.1"
+    "jquery": "^3.0.0"
   }
 }
