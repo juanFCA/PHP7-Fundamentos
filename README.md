@@ -38,3 +38,7 @@ npm install popper.js
 ```
 npm install hammerjs --save
 ```
+> Fonte-Awesomwe
+```
+npm install font-awesome
+```
